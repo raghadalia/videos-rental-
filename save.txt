@@ -1,0 +1,36 @@
+number:99     Movie Name:hello     
+Length:100     Rate:10     Date released:2000     Category:comeday     
+Date of rental:3     Date of return:1     Name of customer:roro     
+number:95     Movie Name:hello     
+Length:100     Rate:10     Date released:2000     Category:comeday     
+Date of rental:9     Date of return:1     Name of customer: ror      
+number:96     Movie Name:hello     
+Length:100     Rate:10     Date released:2000     Category:comeday     
+Date of rental:3     Date of return:1     Name of customer:roro     
+number:6     Movie Name:lll     
+Length:7     Rate:3     Date released:1996     Category:     
+Date of rental:null     Date of return:     Name of customer:     
+number:8     Movie Name:soso     
+Length:2     Rate:6     Date released:1999     Category:     
+Date of rental:     Date of return:     Name of customer:     
+number:888     Movie Name:     
+Length:     Rate:10     Date released:     Category:     
+Date of rental:     Date of return:     Name of customer:     
+number:15     Movie Name:     
+Length:     Rate:4     Date released:     Category:     
+Date of rental:7/3/2023     Date of return:9/2/2022     Name of customer:yessss     
+number:58     Movie Name:     
+Length:     Rate:10     Date released:     Category:     
+Date of rental:9/9     Date of return:     Name of customer:rrrr     
+number:55     Movie Name:ddd     
+Length:1000     Rate:10     Date released:     Category:     
+Date of rental:0     Date of return:     Name of customer:     
+number:9999     Movie Name:rrrr     
+Length:15     Rate:12     Date released:     Category:     
+Date of rental:     Date of return:     Name of customer:     
+number:1     Movie Name:     
+Length:     Rate:     Date released:     Category:     
+Date of rental:10     Date of return:     Name of customer:tala     
+number:88     Movie Name:Fittest     
+Length:1     Rate:7     Date released:2020     Category:Documntary     
+Date of rental:     Date of return:     Name of customer:     
